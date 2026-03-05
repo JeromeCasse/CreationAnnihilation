@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Casse
+  given-names: Jérôme
+title: "Simulations of creation-annihilation models"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-03-05
+url: "https://github.com/JeromeCasse/CreationAnnihilation"
